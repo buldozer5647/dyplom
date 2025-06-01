@@ -1,5 +1,6 @@
 Щоб запустити проєкт, після клонування проєкту запустіть наступні команди в консольному вікні:
-- conda create --name /<env/> --file /<this file/>
+- conda create --name my-env --file requirements.txt
+- conda activate my-env
 
 Якщо відсутній дистрибутив Anaconda
 - python -m venv env
